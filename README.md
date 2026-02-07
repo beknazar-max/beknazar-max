@@ -1,12 +1,12 @@
-# Привет! Я Бекназар 👋
+# Hi, I'm Beknazar! 👋
 
-### Frontend Developer
+### Frontend Developer 🚀
 
-Я занимаюсь фронтенд-разработкой и создаю интерактивные интерфейсы. В данный момент я активно углубляю свои знания в React и работаю над пет-проектами.
+I'm a passionate Frontend Developer from Kyrgyzstan. I love building clean, responsive, and user-friendly web interfaces. Currently, I'm focusing on mastering React and building modern web applications.
 
 ---
 
-### 🛠 Мой стек технологий:
+### 🛠 Tech Stack:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -15,16 +15,10 @@
 
 ---
 
-### 🚀 Моя деятельность:
-- 🌱 Сейчас я активно изучаю: **React (Hooks, Context API, Redux)**
-- 🔭 Работаю над: улучшением своих навыков в верстке и логике веб-приложений
-- 💬 Ты можешь спросить меня о: HTML/CSS и основах JavaScript
+### 🔭 Current Focus:
+- 🌱 I’m currently learning: **React.js (Hooks, State Management, API Integration)**
+- 🔭 I’m working on: Improving my UI/UX and JavaScript logic
+- 💬 Ask me about: **HTML, CSS, and basic JS**
 
-### 📫 Как со мной связаться:
+### 📫 Contact Me:
 - **Telegram:** [@Beknazar09](https://t.me/Beknazar09)
-
----
-
-### 📊 Моя статистика GitHub:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ВАШ_НИК_НА_GITHUB&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ВАШ_НИК_НА_GITHUB&layout=compact&theme=radical)
