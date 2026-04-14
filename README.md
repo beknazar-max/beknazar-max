@@ -22,7 +22,7 @@ I'm a passionate developer from Kyrgyzstan. I love building clean, responsive we
 - 💬 Ask me about: **Web Development and Python basics**
 
 ### 📫 Contact Me:
-- **Telegram:** [@Bekn_azar](https://t.me/@Bekn_azar)
+- **Telegram:** [@Bekn_azar](https://t.me/Bekn_azar)
 
 ---
 
